@@ -1,8 +1,8 @@
 <template>
   <div>
-    <HeaderComponent />
+    <!-- <HeaderComponent /> -->
     <router-view />
-    <FooterComponent />
+    <!-- <FooterComponent /> -->
   </div>
 </template>
 
@@ -19,6 +19,6 @@ import FooterComponent from './components/FooterComponent.vue';
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
 
 </style>
